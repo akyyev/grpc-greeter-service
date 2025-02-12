@@ -3,6 +3,8 @@ gRPC is a modern open-source remote procedure call (RPC) framework developed by 
 
 This is very simple Greeter gRPC service. Feel free to clone and explore :)
 
+Find more details here: https://grpc.io/docs/
+
 ### Set UP
 1. Create Virtual Env: `python3 -m venv myenv`
 2. Activate it: source `myenv/bin/activate`
